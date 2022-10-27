@@ -1,6 +1,6 @@
 # Gerador aleátorio de senha
 
-<img src="https://www.hostgator.com.br/assets/images/password-generator/feature-description/feature-description-1.svg" alt="Senha oculta imagem">
+<img src="https://1password.com/img/redesign/password-generator/laptop.84e23294b9912d010a39b02321119b98.svg" alt="Senha oculta imagem">
 
 > Projetinho simples que solicita quantos dígitos a senha deve ter e retorna a senha aleatória com letras, números e caracteres especiais.
 
